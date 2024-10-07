@@ -42,7 +42,7 @@ app.get('/', (req, res) => {
             <br>
             <p>
                 Get E-Library API: 
-            <a href="https://github.com/RonakPatel2468/E-LIBRARY_MANAGEMENT.git" target="_blank">Repository: e-library Management</a>
+            <a href="https://github.com/RoshniPadaliya/E-Library_Management.git" target="_blank">Repository: e-library Management</a>
             </p>
         </center>
     `);
